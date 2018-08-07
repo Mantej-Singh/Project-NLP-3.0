@@ -12,3 +12,6 @@
 [![simi dd Schedule Consular Appointment.png](https://s19.postimg.cc/c2k7x7m43/simi_dd_Schedule_Consular_Appointment.png)](https://postimg.cc/image/tfuic2hf3/)
 ## Printing all Proper Noun(NNP):
 [![simi dd Schedule Consular Appointment.png](https://s19.postimg.cc/790gscpmb/simi_dd_Schedule_Consular_Appointment.png)](https://postimg.cc/image/vpimmtqcv/)
+
+Download Stanford Named Entity Recognizer from:
+https://nlp.stanford.edu/software/stanford-ner-2018-02-27.zip
